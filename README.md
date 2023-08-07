@@ -1,4 +1,4 @@
-Análise de Sentimentos em Textos Twitter
+Análise de Sentimentos em Textos Twitter 
  
 Descrição
 
