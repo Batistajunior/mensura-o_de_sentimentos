@@ -1,5 +1,5 @@
 Análise de Sentimentos em Textos Twitter
-
+ 
 Descrição
 
 Este projeto consiste em uma análise de sentimentos em textos usando aprendizado de máquina. O objetivo é classificar sentenças em sentimentos positivos ou negativos. O modelo é treinado com base em um conjunto de dados rotulado contendo exemplos de sentenças e seus respectivos rótulos de sentimento.
