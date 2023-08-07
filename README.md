@@ -1,0 +1,1 @@
+# mensura-o_de_sentimentos
